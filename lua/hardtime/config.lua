@@ -59,10 +59,6 @@ M.config = {
       ["<C-P>"] = { "n", "x" },
    },
    disabled_keys = {
-      ["<Up>"] = { "", "i" },
-      ["<Down>"] = { "", "i" },
-      ["<Left>"] = { "", "i" },
-      ["<Right>"] = { "", "i" },
    },
    disabled_filetypes = {
       "NvimTree",
