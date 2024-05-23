@@ -1,5 +1,8 @@
 <!-- panvimdoc-ignore-start -->
 
+## 📃 Forked
+Removed arrow keys from disabled_keys, for those that use modifier+home row keys as arrow keys to navigate.
+
 <h1 align="center">
 hardtime.nvim
 </h1>
